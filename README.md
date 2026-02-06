@@ -4,9 +4,7 @@
 In a day a few people per million people, may make contributions on Github or in Wikipedia,
 with immediate or substantial usage. Why not few times more?
 
-Wikipedia is "the largest repository",  
-which enables global todo lists: https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks 
-
+Wikipedia is "the largest repository" which enables a [global todo list](https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks)
 Why aren't there more large, linked, interdisciplinary projects?*   
 One Purpose could be to collect, analyze, combine and thus refine the 'fragmented cornucopia' of knowledge about nutrients.
 
@@ -19,7 +17,7 @@ And people in poorer places give more in percent.
 How to answer online volunteers asking: **"What is the best (=highest-impact?) task I could work on today, given my talents and skills?"** 
 
 <a href="https://docs.google.com/spreadsheets/d/1mqKx8MIr6G2B-7nlYZ7NH9_RbyHCkQ9gTwY_m-WqmcA/edit?gid=0#gid=0"> <img src="https://github.com/user-attachments/assets/d891fcc3-fd50-4fe3-9df5-629c3f76c273"></a>
-One example for _**potentially**_ high impact:  Unicode.org uniformly defined 1,000s of emojis & pictograms, which are global language now. (With little grammar (color, gender), which could advance.) - There also are sets of 10,000s - specifically to aid disablities or illiteracy. And the largest one is commercially restricted.  Why aren't they unified? - Should this lead to my / your / our next project? <a href="https://github.com/mulberrysymbols/mulberry-symbols/issues/71"> mulberry-symbols#71 </a>
+Another example for _potentially_ high impact:  Unicode.org uniformly defined 1,000s of emojis & pictograms, which are global language now. (With little grammar (color, gender), which could advance.) - There also are sets of 10,000s - specifically to aid disablities or illiteracy. And the largest one is commercially restricted.  Why aren't they unified? - Should this lead to my / your / our next project? <a href="https://github.com/mulberrysymbols/mulberry-symbols/issues/71"> mulberry-symbols#71 </a>
 
 
 ### Second thoughts
