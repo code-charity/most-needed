@@ -1,11 +1,10 @@
 
 ### Open Source is lacking prioritization / coordination at scale
 
-In a day a few people per million people, may make contributions on Github or in Wikipedia,
-with immediate or substantial usage. Why not few times more?
+In a day a few people per million, may make contributions on Github or in Wikipedia, with immediate or substantial usage. - Why not few times more?
 
-Wikipedia is "the largest repository" which enables a [global todo list](https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks)
-Why aren't there more large, linked, interdisciplinary projects?*   
+Wikipedia is "the largest repository" (which enables a [global todo list](https://en.wikipedia.org/wiki/Wikipedia:Most-linked-to_redlinks))
+Why aren't there more large, linked, interdisciplinary projects?*  
 One Purpose could be to collect, analyze, combine and thus refine the 'fragmented cornucopia' of knowledge about nutrients.
 
 Comparably according to worldgivingreport.org ~ 1% of personal income is donated to charity or given personally.
