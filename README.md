@@ -39,7 +39,7 @@ How to assess Wikipedia's total impacts? - It reduced the separation of language
 (From 2022 to 2026, counting those with over 130 stars and edited in the last ~400 days, while the total went from 124k to [150k](https://github.com/search?q=fork%3Atrue+stars%3A%3E130++pushed%3A%3E2025-01-01&type=repositories) only).
 
 - "Many Github issues belong to multiple repos" / Modularity and continuous integration across related projects  
-reduces duplicate work and maintenance; Maximizes, Productivity, Continuity and the Utility that each developer deserves to achieve. <a href="https://web.archive.org/web/20241012155229/http://www.modulecounts.com/"> <img src="https://github.com/user-attachments/assets/82b293cc-bfb2-4746-bc56-8b46af813ce6"></a>
+reduces duplicate work and maintenance; maximizes, productivity, continuity and the utility that each developer achieves.<br> <a href="https://web.archive.org/web/20241012155229/http://www.modulecounts.com/"> <img src="https://github.com/user-attachments/assets/82b293cc-bfb2-4746-bc56-8b46af813ce6"></a>
 
 
 
